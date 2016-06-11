@@ -12,4 +12,4 @@
         android:title="STOP"
         android:orderInCategory="101"
         android:showAsAction="ifRoom|withText"/>
-</menu><!-- From: file:/C:/Users/Goku/Desktop/BLE/app/src/main/res/menu/menu_main.xml -->
+</menu>
